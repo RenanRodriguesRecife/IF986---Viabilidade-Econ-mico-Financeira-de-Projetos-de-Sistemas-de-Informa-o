@@ -1,1 +1,1 @@
-# IF986---Viabilidade-Econ-mico-Financeira-de-Projetos-de-Sistemas-de-Informa-o
+# IF986 - Viabilidade Econômico Financeira de Projetos de Sistema de Informação
