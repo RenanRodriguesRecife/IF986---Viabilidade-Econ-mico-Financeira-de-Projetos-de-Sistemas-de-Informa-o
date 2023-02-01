@@ -1,3 +1,16 @@
+A crise de 2008 foi o estopim para emergir as criptomoedas
+
+Centralized Finance (CeFi) 
+
+Decentralized Finance (DeFi) - decentralisado, computação distribuida, sem intermediários
+
+Platify - Sistema financeiro das Plataformas (Amazon, Facebook) - (Pesquisa do professor)
+
+
+11:35
+
+===================================
+
 O padrão monetários hoje FIAT (Banco central)
 
 - O valor de uma empresa é subjetivo. Depende do que o mercado acha qual é o valor.
