@@ -1,3 +1,20 @@
+<img src="img1.jpg">
+
+A selec é a taxa de juros oficial (2021)
+
+<img src="img2.jpg">
+
+Azul - Representa o Risco dos países emergentes (EMBI) - é um índice de comparação dos títulos dos mercados emergentes em comparação com o título da dívida do tesouro americano. Se esse índice cai significa que esse país deixa de ser um risco. Se esse índice aumenta, o risco do país aumenta.
+
+Vermelho - A capitalização da curva de mercado da bovespa (o valor das empresas na bolsa brasileira). com a crise de 2008 perdeu os valores.
+
+Quando o juros é alto o futuro fica muito caro e muito distante. Quando o juros é alto tudo que tá no futuro vale mais.
+Não só o PIB alto é que garante o valor deve ter o juros baixo.
+Dominância fiscal - é o termo a dívida pública é tão grande que ela se torna um fator preponderante para determinação dos juros (até mais que a inflação e do nível de atividade).(Em muitas situações o tesouro nacional precisa pagar mais juros que a taxa selic para manter a rolagem de seus papeis)
+
+
+===========================================
+
 A crise de 2008 foi o estopim para emergir as criptomoedas
 
 Centralized Finance (CeFi) 
