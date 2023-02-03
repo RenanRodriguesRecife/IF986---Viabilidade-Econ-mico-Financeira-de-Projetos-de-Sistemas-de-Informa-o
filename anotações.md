@@ -1,3 +1,36 @@
+Trocas temporais
+
+O tema principal que conduz toda a finança é o VALOR.
+
+
+
+troca intertemporal:São escolhas no tempo definidas em duas modalidades:
+ a) a posição credora; e, b) a posição devedora.
+
+	- Posição credora: faz um sacrifício agora para ter um benefício no futuro. ou seja, algum custo no presente, tendo em vista um benefício futuro.
+
+	- Posição devedora: Aceita um valor agora para depois ter um custo no futuro. Ou seja, viver agora pagar depois.
+
+
+
+TERMOS DE TROCA (entre presente e futuro) – A cada uma dessas
+posições corresponde uma proporção entre valores presentes e valores
+futuros.
+
+Na posição credora é a proporção de valor que eu cedo no presente (o
+custo) e o benefício que eu pretendo ter no futuro. É o benefício adicional
+que eu espero obter em relação ao custo que eu tive agora. Ou seja, é a
+“recompensa de espera”.
+
+Na posição devedora o termo de troca é o “preço da impaciência”.
+Quanto maior a minha urgência, maior será o preço que eu deverei pagar
+para obter aquilo que eu desejo imediatamente.
+
+
+
+
+==========================================
+
 <img src="./.assets/img1.JPG">
 
 A selec é a taxa de juros oficial (2021)
