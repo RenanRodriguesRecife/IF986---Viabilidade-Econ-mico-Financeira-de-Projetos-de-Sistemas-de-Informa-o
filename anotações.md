@@ -1,8 +1,8 @@
-<img src="img1.jpg">
+<img src="./.assets/img1.JPG">
 
 A selec é a taxa de juros oficial (2021)
 
-<img src="img2.jpg">
+<img src="./.assets/img2.JPG">
 
 Azul - Representa o Risco dos países emergentes (EMBI) - é um índice de comparação dos títulos dos mercados emergentes em comparação com o título da dívida do tesouro americano. Se esse índice cai significa que esse país deixa de ser um risco. Se esse índice aumenta, o risco do país aumenta.
 
