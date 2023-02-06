@@ -72,6 +72,20 @@ Formação das preferências temporais
 distribuição de valor no tempo:
 
 
+O que é mais fácil no mundo do que poupar o dinheiro que ainda não recebeu.
+	É muito diferente em fazer uma escolha a distância do que fazer uma escolha na hora h quando
+o prazer está imediatamente ao seu alcance.
+
+	
+	A disjuntiva: - colocar mais vida nos nossos anos ou colocar mais anos nas nossas vidas.
+Viés do presente (desconto intertemporal) - Temos a tendência de dar um peso maior a recompensas no tempo presente (impulsividade e inclinação da gratificação imediata)
+(desconto hiperbólico) - Quando as recompensas se encontram muito no futuro elas deixam de ser valiosas para nós.(temos a tendência) - seres humanos estão mais motivados por aquilo que está mais perto de alcançar. 
+
+Não adianta nada você traçar uma meta para daqui a 20 anos. Você tem que quebrar em pedacinhos para daqui a uma hora (a maioria das pessoas não vão brigar para uma meta muito longa)
+Objetivos de 30 anos.
+30 anos -> 5 anos -> 1 ano -> 1 mês -> 1 semana -> 1 dia 
+
+Investir não é apenas para rentabilidade, também é para manter o seu dinheiro seguro e evitar gastos.
 
 
 ==========================================
