@@ -3,9 +3,10 @@ Trocas temporais
 O tema principal que conduz toda a finança é o VALOR.
 
 
+troca intertemporal:
 
-troca intertemporal:São escolhas no tempo definidas em duas modalidades:
- a) a posição credora; e, b) a posição devedora.
+São escolhas no tempo definidas em duas modalidades:
+ a) a posição credora; e b) a posição devedora.
 
 	- Posição credora: faz um sacrifício agora para ter um benefício no futuro. ou seja, algum custo no presente, tendo em vista um benefício futuro.
 
@@ -18,13 +19,22 @@ posições corresponde uma proporção entre valores presentes e valores
 futuros.
 
 Na posição credora é a proporção de valor que eu cedo no presente (o
-custo) e o benefício que eu pretendo ter no futuro. É o benefício adicional
-que eu espero obter em relação ao custo que eu tive agora. Ou seja, é a
-“recompensa de espera”.
+custo) e o benefício que eu pretendo ter no futuro. É o benefício adicional: que eu espero obter em relação ao custo que eu tive agora. Ou seja, é a “recompensa de espera”.
 
 Na posição devedora o termo de troca é o “preço da impaciência”.
 Quanto maior a minha urgência, maior será o preço que eu deverei pagar
 para obter aquilo que eu desejo imediatamente.
+
+termos de troca presente/futuro:
+	- Posição credora: É a recompensa da espera
+	- Posição devedora: É o preço da impaciência(maior a urgência em relação ao preço que vai pagar no futuro)
+
+	1 - o juros monetário é apenas uma manifestação particularizada de um fenômeno que é mais amplo
+	(O juros monetário são apenas manifestação do fenômeno (recompensa da espera e preço da impaciência) nas situações envolvendo trocas temporais com o denominador comum que é o dinheiro.
+
+	- toda vez que existe uma troca no tempo existe uma noção de juros 
+
+	2 - Não a nada de errado com a posição credora e devedora. Ambus são perfeitamente racionais desde que os termos de troca seja adequados.
 
 
 
