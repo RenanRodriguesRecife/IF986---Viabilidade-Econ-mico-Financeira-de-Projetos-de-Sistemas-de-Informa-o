@@ -200,9 +200,9 @@ Montante (M) - Capital + Juros
 
 A diferença entre juros simples e juros compostos é que a taxa incide sempre sobre o valor atual enquanto no juros simples a taxa incide sempre no valor inicial.
 
-<img src="comp1.JPG">
+<img src=".assets/comp1.JPG">
 
-<img src="comp2.JPG">
+<img src=".assets/comp2.JPG">
 
-<img src="comp3.JPG">
+<img src=".assets/comp3.JPG">
 
