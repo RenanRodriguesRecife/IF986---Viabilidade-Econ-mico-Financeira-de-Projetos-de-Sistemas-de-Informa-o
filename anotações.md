@@ -181,3 +181,28 @@ Fraude Americanas e Ambev (2023)
 Risco Sacado:
 
 <img src="riscoSacado.jpg">
+
+
+===============================================================
+
+## Juros Compostos
+
+Capital (C) - capital inicial
+
+Tempo (T) - 
+
+Juros (J) - Compensação pelo tempo emprestado.
+
+Taxa (i) - o juros é calculado pela taxa.
+
+Montante (M) - Capital + Juros
+
+
+A diferença entre juros simples e juros compostos é que a taxa incide sempre sobre o valor atual enquanto no juros simples a taxa incide sempre no valor inicial.
+
+<img src="comp1.JPG">
+
+<img src="comp2.JPG">
+
+<img src="comp3.JPG">
+
