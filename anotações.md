@@ -206,3 +206,37 @@ A diferença entre juros simples e juros compostos é que a taxa incide sempre s
 
 <img src=".assets/comp3.JPG">
 
+
+Juros Simples
+Não é usado nas aplicações financeiras
+
+
+Capital (C) - capital inicial
+
+Tempo (T) - 
+
+Juros (J) - Compensação pelo tempo emprestado.
+
+Taxa (i) - o juros é calculado pela taxa.
+
+Montante (M) - Capital + Juros
+
+Na hora do resgate você recebe o seu capital + Juros = Montante (M)
+
+No juros simples a taxa sempre será incidida sobre o capital inicial e não sobre o montante.
+
+
+<img src=".assets/comp4.JPG">
+
+M = C + J => M = 1000 + 300 = 1300 reais.
+
+<img src=".assets/comp5.JPG">
+
+
+Essa simples transformação serve para juros simples mas não para juros compostos
+
+<img src=".assets/comp6.JPG">
+
+<img src=".assets/comp7.JPG">
+
+<img src=".assets/comp8.JPG">
