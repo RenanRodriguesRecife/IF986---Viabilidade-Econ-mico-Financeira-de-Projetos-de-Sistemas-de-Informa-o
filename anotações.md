@@ -37,6 +37,41 @@ termos de troca presente/futuro:
 	2 - Não a nada de errado com a posição credora e devedora. Ambus são perfeitamente racionais desde que os termos de troca seja adequados.
 
 
+Troca Intertemporal ≠ Escolha Intertemporal
+uma coisa é a troca e a outra coisa é a escolha
+	a escolha depende de um ato voluntário
+	Pq os indivíduos diferem tanto em relação a escolhas? (alguns são capases de fazer sacrifícios e outros sucubem) 
+		sociedades que poupam e sociedade que se endividam 	
+	A cada etapa de um indivíduo (infância, juventude, maturidade, velhice) - tem um modo particular de fazer escolhas no tempo.
+	Aos 4 anos - as crianças não esperam
+	Aos 12 anos - 60% esperam
+	juventude - aumento da impulsividade para reprodução. Nesse ambiente é que o indivíduo é chamando para fazer
+	escolhas de longo alcance para a sua vida.(uma mistura explosiva de confiança no futuro e impulsividade) - é o momento do empreendedorismo
+	maturidade - é a ressaca. O período de avaliação.
+		mesmo na maturidade existem armadilhas.
+
+OBS: As empresas também têm um ciclo de vida
+	nascem (startup)
+	crescem
+	amadurecem
+	ou renovam ou extinguem 
+
+
+
+(NO brasil as instituições são tão fraudulentas que o valor poupado pode não ser entregue)
+(Quanto maior a escolaridade da mãe melhor o resultado da criança em provas)
+
+	
+	Na medida que o momento da escolha se aproxima do presente vai se alterando as percepções
+	do termo de troca de presente e futuro. E na hora H da escolha acontece uma total subversão 
+	daquilo que parecia racional quando o momento era longo.
+
+Formação das preferências temporais
+
+
+distribuição de valor no tempo:
+
+
 
 
 ==========================================
