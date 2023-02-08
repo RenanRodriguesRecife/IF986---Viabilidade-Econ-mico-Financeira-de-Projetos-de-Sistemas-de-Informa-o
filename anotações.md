@@ -1,3 +1,9 @@
+Aula 1 - 
+
+
+
+================================
+
 Trocas temporais
 
 O tema principal que conduz toda a finança é o VALOR.
