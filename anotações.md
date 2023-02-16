@@ -242,3 +242,12 @@ Essa simples transformação serve para juros simples mas não para juros compos
 <img src=".assets/comp7.JPG">
 
 <img src=".assets/comp8.JPG">
+
+======================================
+
+CAPM  = COST OF EQUITY + COST OF DEBT 
+
+WACC - CUSTO MÉDIO PONDERADO DE CAPITAL
+
+Derivativas - alternativa financeira - esteve por tráz da crise de 2008
+
