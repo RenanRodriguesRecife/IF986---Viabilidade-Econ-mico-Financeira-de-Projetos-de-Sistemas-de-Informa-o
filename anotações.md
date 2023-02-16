@@ -251,3 +251,13 @@ WACC - CUSTO MÉDIO PONDERADO DE CAPITAL
 
 Derivativas - alternativa financeira - esteve por tráz da crise de 2008
 
+Derivativos:
+
+Você transfere os riscos de um agente para outro.
+
+- O estopim da crise de 2008 foi que não tinha mais dinheiro para comprar mais CDI.
+
+Opções financeiras
+
+Seguradoras
+
