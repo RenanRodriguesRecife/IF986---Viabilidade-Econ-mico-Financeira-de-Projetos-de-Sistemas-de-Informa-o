@@ -174,6 +174,10 @@ WACC -> Cost of equity capm + cost of debt
 
 Em uma economia que o custo de capital é maior que a taxa de retorno. Os investidores não vão querer investir no mercado.
 
+ROI
+
+ROIC -> Retorno sobre capital investido -> Ingloba todo o capital da empresa tanto quanto o capital próprio quanto o capital de terceiro. (quanto maior melhor)
+
 ===============
 
 curiosidade:
