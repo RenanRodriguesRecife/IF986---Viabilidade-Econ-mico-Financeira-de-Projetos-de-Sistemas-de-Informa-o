@@ -290,6 +290,18 @@ O dilema dos prisioneiros é um exemplo clássico de um jogo de soma zero, em qu
 
 Cada tipo de jogo e disputa é um sistema comandado por regras próprias, quem está envolvido no jogo só consegue tomar as decisões corretas quando conhece bem os mecanismos envolvidos na disputa.
 
-Jogo simétrico é um
-33:06
+Jogo simétrico é um que os 2 jogadores tem os mesmos ganhos e as mesmas penalidades, as regras e as estratégias tem o mesmo peso para todos.
+
+##  EQUILÍBRIO DE NASH
+
+Quando a melhor escolha é a melhor escolha para todos isso se chama equilíbrio de NASH
+
+NASH foi um matemático (filme uma mente brilhante)
+
+A teoria de NASH refuta o que Adan Smith disse "Se cada um procurar o seu interece o bem comum será alcançado"
+
+O melhor resultado é quando todos fazem o que é melhor para si e para o grupo.
+
+
+19:00
 
