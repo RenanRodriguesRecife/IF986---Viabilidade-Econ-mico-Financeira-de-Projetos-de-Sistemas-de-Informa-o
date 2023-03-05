@@ -265,3 +265,31 @@ Opções financeiras
 
 Seguradoras
 
+=============================================
+Aula 15
+
+União de finansas corporativas de estratégia com teoria dos jogos estratégica
+
+A teoria dos jogos é baseada: no DILEMA DOS PRISIONEIROS e no EQUILÍBRIO DE NASH
+
+A teoria dos jogos é um ramo recente da matemática surgida nos anos 1930. Estuda situações estratégicas onde jogadores escolhem diferentes ações na tentativa de melhorar o desempenho. Como nos jogos: xadrês, bolinha de gude... A teoria dos jogos é muito útil no investimento de ações, a competição de empresas na conquista de um mercado, na eleições e até mesmo nas querras.
+
+
+## DILEMA DOS PRISIONEIROS
+
+```
+O dilema dos prisioneiros é um problema clássico da teoria dos jogos que explora a dinâmica de escolhas racionais em situações de conflito e cooperação.
+
+O problema é o seguinte: dois criminosos são presos e mantidos em celas separadas, sem comunicação entre eles. Ambos são acusados do mesmo crime e são informados de que, se ambos confessarem, ambos ficam presos por 5 anos. Se ambos negarem os dois ficam presos por 2 anos. No entanto, se um confessar e o outro negar, o que confessou sai livre e o que negou fica preso por 10 anos.
+
+O dilema dos prisioneiros é um exemplo clássico de um jogo de soma zero, em que a soma das perdas e ganhos dos jogadores é sempre zero.
+
+```
+
+<img src="">
+
+Cada tipo de jogo e disputa é um sistema comandado por regras próprias, quem está envolvido no jogo só consegue tomar as decisões corretas quando conhece bem os mecanismos envolvidos na disputa.
+
+Jogo simétrico é um
+33:06
+
