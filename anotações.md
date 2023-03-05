@@ -286,7 +286,7 @@ O dilema dos prisioneiros é um exemplo clássico de um jogo de soma zero, em qu
 
 ```
 
-<img src="">
+<img src="./.assets/dilema-dos-prisioneiros-jpg.jpg">
 
 Cada tipo de jogo e disputa é um sistema comandado por regras próprias, quem está envolvido no jogo só consegue tomar as decisões corretas quando conhece bem os mecanismos envolvidos na disputa.
 
