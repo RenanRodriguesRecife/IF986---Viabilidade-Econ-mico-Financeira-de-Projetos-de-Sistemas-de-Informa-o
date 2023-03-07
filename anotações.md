@@ -303,5 +303,24 @@ A teoria de NASH refuta o que Adan Smith disse "Se cada um procurar o seu intere
 O melhor resultado é quando todos fazem o que é melhor para si e para o grupo.
 
 
+
+Vai abordar questões de governancia e crescimento
+
+
+
+O que foi visto até o momento com VPL (valor presente líquido) é uma questão usada para determinados problemas. Ela não resolve uma série de outros problemas
+
+A primeira parte é importante quando você vai fazer valorização de títulos de ações preferenciais, título de renda fixa e também de algumas ações seguras que pagam dividendos reguláres (cash call). Porém é inapropriado para empresas com grande oportunidade de crescimento e para opções.
+
+Na parte de artigos reais. É importante para valorização algueis de terceiros, cash call. Mas é inapropriados para projetos de TI e startups
+
+Por conta disso vamos buscar outras metodologias: Baseada na teoria dos jogos e nas opções as respostas que se dão nesse contexto financeiros
+
+Para opções reais a grande sacada é incorporar certesa e flexibilidade na análise de investimentos.
+
+Usando VPL é uma metodologia que ou uma coisa é viável ou não é viável não tem meio termo ou flexibilidade. É necessário introduzir a teoria das opções para ter flexibilidade nos investimentos
+
+Com a teoria dos jogos você tem a possibilidade incorporar o comportamento. Mas é difícil você trabalhar com teoria dos jogos pois você não tem cases (e dados) em abundância
+
 19:00
 
