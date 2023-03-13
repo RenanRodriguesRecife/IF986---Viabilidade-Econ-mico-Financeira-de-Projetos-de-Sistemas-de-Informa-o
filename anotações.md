@@ -324,3 +324,12 @@ Com a teoria dos jogos você tem a possibilidade incorporar o comportamento. Mas
 
 19:00
 
+=====================================================
+
+O valor de uma empresa é formado por 2 conceitos:
+
+	Modo de como a empresa consegue criar e capturar valor
+	
+	Modo de como uma empresa entrega valor aos consumidores (operacional)
+	
+Na era da inteligência artificial. O modo de como a empresa consegue criar valor pode ser feito por humanos. Mas como a empresa entrega valor pode ser feito por software. Hoje (2023) você encotra empresas que seu modelo operacional já e totalmente feito por inteligência artifical.
