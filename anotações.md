@@ -326,6 +326,9 @@ Com a teoria dos jogos você tem a possibilidade incorporar o comportamento. Mas
 
 =====================================================
 
+
+## O que é um Modelo Operacional
+
 O valor de uma empresa é formado por 2 conceitos:
 
 “O valor de uma empresa é conformado por
@@ -349,12 +352,14 @@ Ex: Empresa Recruta aí - (porto digital) - 2023: Usar inteligência artificial 
 
 ## Modelo de negócio 
 
-Modelo de negócio:
-
-	- Estratégia
+"O modelo de negócio incorpora a
+estratégia da empresa (à frente),
+enquanto o modelo operacional
+incorpora os sistemas, processos, e
+capacidades que possibilitam a
+entrega dos bens e serviços para os
+consumidores da empresa”.
 	
-	- Modelo Operacional: Incorpora os sistemas, processos, as capacidades que possibilitam a entrega de valor para as estruturas. É a parte que pode ser deixada para a máquina.
-	
-	
+Iansiti and Lakhani (2020). “Competing In the Age of AI”.
 
 
