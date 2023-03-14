@@ -328,8 +328,33 @@ Com a teoria dos jogos você tem a possibilidade incorporar o comportamento. Mas
 
 O valor de uma empresa é formado por 2 conceitos:
 
+“O valor de uma empresa é conformado por
+dois conceitos. O primeiro é o modelo de
+negócio da empresa, definido como sendo o
+modo como a empresa promete criar e
+capturar valor. O segundo é o modelo
+operacional, definido como sendo o modo
+como a empresa entrega o valor para seus
+consumidores”.
+
+Iansiti and Lakhani (2020). “Competing In the Age of AI”.
+
 	Modo de como a empresa consegue criar e capturar valor
 	
 	Modo de como uma empresa entrega valor aos consumidores (operacional)
 	
 Na era da inteligência artificial. O modo de como a empresa consegue criar valor pode ser feito por humanos. Mas como a empresa entrega valor pode ser feito por software. Hoje (2023) você encotra empresas que seu modelo operacional já e totalmente feito por inteligência artifical.
+
+Ex: Empresa Recruta aí - (porto digital) - 2023: Usar inteligência artificial para encontrar profissionais para determinadas vagas. Recentimente incluiu o sistema ChatGPT (que a API acabou de sair)
+
+## Modelo de negócio 
+
+Modelo de negócio:
+
+	- Estratégia
+	
+	- Modelo Operacional: Incorpora os sistemas, processos, as capacidades que possibilitam a entrega de valor para as estruturas. É a parte que pode ser deixada para a máquina.
+	
+	
+
+
