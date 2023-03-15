@@ -326,6 +326,7 @@ Com a teoria dos jogos você tem a possibilidade incorporar o comportamento. Mas
 
 =====================================================
 
+Aula 21
 
 ## O que é um Modelo Operacional
 
@@ -362,4 +363,29 @@ consumidores da empresa”.
 	
 Iansiti and Lakhani (2020). “Competing In the Age of AI”.
 
+<img src="">
 
+## Modelo de Negócio e Estratégia
+
+Tese de Osterwalder: Ele diz que modelo de negócio é uma coisa e estratégia é outra. Isso foi dito em 2004
+
+<img src="">
+
+Você tem uma camada de planejamento: é aquilo que estabelece para o que a empresa existe
+
+Camada do Modelo de negócio: A camada Aquitetural
+
+Camada de processo: A camada de implementação
+
+
+## No livro do professor
+
+Ele traz uma outra distinção: Estratégia, Estrutura e modelo de negócio.
+
+Modelo de Negócio
+
+Modelo Operacional 
+
+Estratégia
+
+Estrutura
