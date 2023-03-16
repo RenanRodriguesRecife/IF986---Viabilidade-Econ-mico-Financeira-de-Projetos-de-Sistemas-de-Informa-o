@@ -389,3 +389,6 @@ Modelo Operacional
 Estratégia
 
 Estrutura
+
+Estrutura e Estratégia de empresa é diferente de Estrutura e Estratégia de mercado
+
