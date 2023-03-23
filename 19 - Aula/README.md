@@ -8,5 +8,9 @@ Como se aplica a teoria das opções reais em análise de viabilidade utilizando
 
 Vídeo 1: Árvores de Decisão - Exemplo completo com construção e cálculo https://www.youtube.com/watch?v=PCTEn3hWDxA
 
+Para que serve uma Árvore de Decisão?
+
+As árvores de decisão são utilizadas quando você tem um conjunto de alternativas que você pode escolher com as decisões e você quer calcular o valor esperado para cada alternativa considerando cenários e suas probabilidades
+
 
 Vídeo 2:
