@@ -266,6 +266,7 @@ Opções financeiras
 Seguradoras
 
 =============================================
+
 Aula 15
 
 União de finansas corporativas de estratégia com teoria dos jogos estratégica
