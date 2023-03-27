@@ -16,6 +16,8 @@ As árvores de decisão são utilizadas quando você tem um conjunto de alternat
 As árvores de decisão são utilizadas para calcular o valor esperado de decisões alternativas considerando cenários e suas probabilidades
 ```
 
+Os seguintes símbolos são usados:
+
 <img src=".assets/simbologia.jpg">
 
 Ex: arvore genérica
@@ -27,8 +29,29 @@ sempre começa com um quadrado e apartir do quadrado parte alternativas
 
 Os valores (v1, v2...) devem ser calculados. São os valores que aconteceria se caso um dos cenários acontecesse.
 
+Exemplo: Você é o gestor de uma academia que possui atualmente 2.000 alunos, com cada aluno pagando R$ 600 anualmente e custos operacionais de R$ 300 por ano/aluno. A academia possui uma área de musculação, piscina e um estúdio de Pilates.
 
-Os seguintes símbolos são usados:
+Um concorrente abrirá uma nova unidade próxima a sua academia, o que reduzirá seu número de alunos, a menos que você amplie suas instalações.
+
+Portanto, você precisa decidir se irá ou não investir em uma expansão de sua academia para manter ou até mesmo aumentar seu número de alunos.
+
+Para tomar essa decisão foram feitas previsões considerando os três próximos anos.
+
+
+Alternativa 1: Não investir na expansão, porém com redução do valor para R$ 500 e custos mantidos em R$ 300. Espera-se que o número de alunos matriculados caia>
+
+- 1.500 ao longo dos próximos 3 anos (70% de probabilidade)
+- 1.200 ao longo dos próximos 3 anos (30% de probabilidade)
+
+Alternativa 2: Investir na expansão, com custos estimados em R$ 500 mil. O efeito esperado na quantidade de alunos será:
+
+- Cenário 1 (60% de probabilidade): manter em 2.000 alunos
+- Cenário 2 (40% de probabilidade): aumentar para 2.200 alunos
+
+Com a ampliação os custos operacionais serão afetados:
+
+- Cenário 1 (50% de probabilidade): custos operacionais aumentam para R$ 350
+- Cenário 2 (50% de probabilidade): custos operacionais aumentam para R$ 400
 
 
 
