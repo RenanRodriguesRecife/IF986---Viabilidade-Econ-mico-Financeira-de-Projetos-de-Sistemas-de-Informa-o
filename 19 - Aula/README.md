@@ -61,13 +61,15 @@ Com a ampliação os custos operacionais serão afetados:
 
 O primeiro passo é calcular os valores que seriam obtidos caso cada ramo da árvores acontecesse,  sem considerar nenhuma das probabilidades
 
-<img src=".assets/tab.jpg>
+<img src=".assets/tab.jpg">
 
-<img src=".assets/reso1.jpg>
+<img src=".assets/reso1.jpg">
 
 Agora precisa fazer o calculo dos valores esperados: Você vai percorer o caminho inverso (ir dos terminadores até a raíz) sempre que você encontra um cenário você vai fazer o calculo do valor esperado.
 
 O calculo do valor esperado: é o valor da probabilidade vezes o valor final.
+
+<img src=".assets/valor_esperado.jpg">
 
 #### Análise dos Resultados
 
