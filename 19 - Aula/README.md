@@ -29,7 +29,9 @@ sempre começa com um quadrado e apartir do quadrado parte alternativas
 
 Os valores (v1, v2...) devem ser calculados. São os valores que aconteceria se caso um dos cenários acontecesse.
 
-Exemplo: Você é o gestor de uma academia que possui atualmente 2.000 alunos, com cada aluno pagando R$ 600 anualmente e custos operacionais de R$ 300 por ano/aluno. A academia possui uma área de musculação, piscina e um estúdio de Pilates.
+### Exemplo:
+
+Você é o gestor de uma academia que possui atualmente 2.000 alunos, com cada aluno pagando R$ 600 anualmente e custos operacionais de R$ 300 por ano/aluno. A academia possui uma área de musculação, piscina e um estúdio de Pilates.
 
 Um concorrente abrirá uma nova unidade próxima a sua academia, o que reduzirá seu número de alunos, a menos que você amplie suas instalações.
 
@@ -53,7 +55,7 @@ Com a ampliação os custos operacionais serão afetados:
 - Cenário 1 (50% de probabilidade): custos operacionais aumentam para R$ 350
 - Cenário 2 (50% de probabilidade): custos operacionais aumentam para R$ 400
 
-
+<img src=".assets/ex1_arv.jpg">
 
 
 Vídeo 2:
