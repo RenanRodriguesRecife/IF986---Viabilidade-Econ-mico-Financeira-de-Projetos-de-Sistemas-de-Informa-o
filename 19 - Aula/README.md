@@ -79,5 +79,12 @@ Se usássemos o critério maximin (maximizar o menor ganho), comum em decisões 
 
 Se o tomador de decisão for propenso ao risco, escolheria ampliar a academia se usasse o critério maximax (maximizar o maior ganho). (Qual é o maior valor possível dentre todas as alternativas. Que é o caso do tomador de decisão otimista)
 
-
 Vídeo 2: Árvore de Decisão - Como funciona (Machine Learning) - https://www.youtube.com/watch?v=W7MfsE5av0c
+
+Árvore de Decisão que usa o calculo de entropia e ganho de informação (existe o indice gine mas não é foco)
+
+## Teoria das Opções Financeiras
+
+30:59
+
+
