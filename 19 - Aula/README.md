@@ -57,5 +57,25 @@ Com a ampliação os custos operacionais serão afetados:
 
 <img src=".assets/ex1_arv.jpg">
 
+#### Resolução do Exemplo: como calcular os valores
+
+O primeiro passo é calcular os valores que seriam obtidos caso cada ramo da árvores acontecesse,  sem considerar nenhuma das probabilidades
+
+<img src=".assets/tab.jpg>
+
+<img src=".assets/reso1.jpg>
+
+Agora precisa fazer o calculo dos valores esperados: Você vai percorer o caminho inverso (ir dos terminadores até a raíz) sempre que você encontra um cenário você vai fazer o calculo do valor esperado.
+
+O calculo do valor esperado: é o valor da probabilidade vezes o valor final.
+
+#### Análise dos Resultados
+
+O tomador de decisão neutro ao risco optaria por investir na ampliação da academia, pois o Valor Esperado é o maior. (isso não quer dizer que essa decisão vai levar para o melhor resultado final)
+
+Se usássemos o critério maximin (maximizar o menor ganho), comum em decisões mais conservadoras, decidiríamos por não ampliar a academia. (Por que no pior cenário das duas alternativas ele tem o valor mais alto)
+
+Se o tomador de decisão for propenso ao risco, escolheria ampliar a academia se usasse o critério maximax (maximizar o maior ganho). (Qual é o maior valor possível dentre todas as alternativas. Que é o caso do tomador de decisão otimista)
+
 
 Vídeo 2:
