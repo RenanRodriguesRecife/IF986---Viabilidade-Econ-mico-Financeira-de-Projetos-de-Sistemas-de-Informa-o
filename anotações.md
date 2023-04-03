@@ -402,3 +402,25 @@ Estrutura e Estratégia de empresa é diferente de Estrutura e Estratégia de me
 
 Aula 22 - 23
 
+5 forças
+
+## Idéia
+
+## Team
+
+## Business Model
+
+## Funding 
+
+### Capital de Risco
+
+Capital de risco (também conhecido como venture capital) é um tipo de investimento privado em empresas que possuem alto potencial de crescimento e retorno financeiro. Os investidores de capital de risco geralmente são empresas especializadas que buscam investir em empresas em estágios iniciais de desenvolvimento, com a expectativa de que essas empresas cresçam rapidamente e gerem grandes retornos financeiros no futuro. O capital de risco é frequentemente usado para financiar startups e empresas de tecnologia, que têm uma maior probabilidade de apresentar um crescimento rápido.
+
+### Crescimento Gradual
+
+Por outro lado, o crescimento orgânico se refere ao crescimento gradual e sustentável de uma empresa, sem recorrer a investimentos externos significativos. Isso geralmente é alcançado por meio de reinvestimento dos lucros, expansão gradual dos negócios e aumento da base de clientes. O crescimento orgânico é mais comum em empresas estabelecidas que já possuem um modelo de negócios estável e um fluxo de receita consistente.
+
+Em resumo, o capital de risco é uma forma de investimento que busca um crescimento rápido e agressivo de empresas, enquanto o crescimento orgânico é um processo mais gradual e sustentável de expansão dos negócios.
+
+
+## Timing
