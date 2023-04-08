@@ -424,3 +424,12 @@ Em resumo, o capital de risco é uma forma de investimento que busca um crescime
 
 
 ## Timing
+
+
+-======================
+
+
+
+Anexo:
+
+DeFi é o nome dado ao conjunto de serviços e produtos financeiros, como empréstimos, transferências e sistemas de pagamentos, que rodam em uma blockchain, espécie de banco de dados descentralizado e imutável.
