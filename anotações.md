@@ -433,3 +433,31 @@ Em resumo, o capital de risco é uma forma de investimento que busca um crescime
 Anexo:
 
 DeFi é o nome dado ao conjunto de serviços e produtos financeiros, como empréstimos, transferências e sistemas de pagamentos, que rodam em uma blockchain, espécie de banco de dados descentralizado e imutável.
+
+=========================
+
+As empresas de capital aberto são obrigadas publicar 5 relatórios contáveis:
+
+BP - balanço patrimonial (mostra a posição patrimonial e financeira da empresa em um certo momento, uma foto de como a empresa tá financiada e quais são os ativos dela)
+temos de um lado o passivo e o patrimonio liquido e do outro lado temos os ativos dela.
+
+DRE  - A DRE demonstração dos resultados de exercício, mostra um resumo ordenado das receitas e despesas da empresa (avalia o lucro da empresa e verifica se ela é eficiente)
+
+DFC - De monstrativo de fluxo de caixa (DFC), como as atividades de financiamento, investimento e operacional impactam o caixa da empresa.
+
+DMBL - Demonstração de mutações do patrimônio líquido (DMBL), temos a demonstração do lucro e prejuízo acumulado, como o capital próprio da empresa e o patrimônio líquido se altera ao longo do tempo.
+
+DVA - DVA demonstração de valor adicionado: Desempenho econômico e social da empresa. Como a empresa está distribuido  o resultado a sociedade.
+
+Indicadores de Endividamento: 
+
+É Preferível ter uma quantidade maior de dívida de longo prazo.
+
+Indicadores de Quantidade de dívida
+
+O modelo CAPM é muito utilizado para calcular o custo de capital próprio, que é a taxa de retorno requerida pelo investidor para colocar recursos numa empresa e/ou projeto. A taxa de desconto para calcular o preço justo de uma empresa na Bolsa de Valores é o custo médio ponderado de capital (WACC).
+
+CAPM
+
+Custo do Capital Próprio ou do Patrimônio Líquido – Cost of Equity (CAPM – Capital Asset Pricing Model) - 
+
