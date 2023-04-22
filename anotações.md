@@ -461,3 +461,15 @@ CAPM
 
 Custo do Capital Próprio ou do Patrimônio Líquido – Cost of Equity (CAPM – Capital Asset Pricing Model) - 
 
+
+
+
+
+Empresas que pegam capital de terceiros tendem a ter um crescimento maior (crescimento alavancado)
+
+
+
+
+
+Você não pode comparar o ROIC (como nenhum outro indicador) empresas de diferentes segmentos.A necessidade de capital e a rentabilidade de capital depende muito de onde a empresa está inserida. Você deve comprar esses indicadores com empresas do mesmo tipo, com seus concorrentes depois com o histórico da própria empresa
+
